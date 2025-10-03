@@ -1,4 +1,4 @@
-# implementation-of-stack-using-array-in-cpp
+# Implementation-of-stack-using-array-in-cpp
 ## Objective
 Implement a stack using a fixed-size array in C++, covering push, pop, peek, and display operations while handling overflow and underflow conditions.
 
